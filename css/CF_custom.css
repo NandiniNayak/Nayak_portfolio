@@ -1,0 +1,35 @@
+.navbar-custom .nav li a {
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #fed136;
+}
+.cf_location {
+  float: right !important;
+  top: -230px;
+}
+.cf_img-responsive
+{
+  display: block;
+      width: 160px;
+      height: 160px;
+      max-width: 100%;
+      background: #E6E7ED;
+      -moz-border-radius: 110px;
+      -webkit-border-radius: 110px;
+}
+.cf_img-circle {
+  border-radius: 100%;
+}
+.cf_text-center {
+    text-align:justify;
+}
+.cf_textposition {
+    margin: 0 0 10px;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
