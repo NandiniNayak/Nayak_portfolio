@@ -33,3 +33,12 @@
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
 }
+
+.cf_navbar{
+  float: right !important;
+  margin-right: -2px;
+  color: #fec503;
+  font-style: oblique;
+  font-size: 30;
+  font-family:sans-serif;
+}
